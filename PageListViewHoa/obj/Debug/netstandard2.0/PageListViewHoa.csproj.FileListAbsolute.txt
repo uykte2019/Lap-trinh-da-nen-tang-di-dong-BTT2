@@ -1,0 +1,13 @@
+C:\Users\levan\source\repos\PageListViewHoa\PageListViewHoa\PageListViewHoa\bin\Debug\netstandard2.0\PageListViewHoa.deps.json
+C:\Users\levan\source\repos\PageListViewHoa\PageListViewHoa\PageListViewHoa\bin\Debug\netstandard2.0\PageListViewHoa.dll
+C:\Users\levan\source\repos\PageListViewHoa\PageListViewHoa\PageListViewHoa\bin\Debug\netstandard2.0\ref\PageListViewHoa.dll
+C:\Users\levan\source\repos\PageListViewHoa\PageListViewHoa\PageListViewHoa\bin\Debug\netstandard2.0\PageListViewHoa.pdb
+C:\Users\levan\source\repos\PageListViewHoa\PageListViewHoa\PageListViewHoa\obj\Debug\netstandard2.0\PageListViewHoa.csprojAssemblyReference.cache
+C:\Users\levan\source\repos\PageListViewHoa\PageListViewHoa\PageListViewHoa\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\levan\source\repos\PageListViewHoa\PageListViewHoa\PageListViewHoa\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\levan\source\repos\PageListViewHoa\PageListViewHoa\PageListViewHoa\obj\Debug\netstandard2.0\PageListViewHoa.AssemblyInfoInputs.cache
+C:\Users\levan\source\repos\PageListViewHoa\PageListViewHoa\PageListViewHoa\obj\Debug\netstandard2.0\PageListViewHoa.AssemblyInfo.cs
+C:\Users\levan\source\repos\PageListViewHoa\PageListViewHoa\PageListViewHoa\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\levan\source\repos\PageListViewHoa\PageListViewHoa\PageListViewHoa\obj\Debug\netstandard2.0\PageListViewHoa.dll
+C:\Users\levan\source\repos\PageListViewHoa\PageListViewHoa\PageListViewHoa\obj\Debug\netstandard2.0\ref\PageListViewHoa.dll
+C:\Users\levan\source\repos\PageListViewHoa\PageListViewHoa\PageListViewHoa\obj\Debug\netstandard2.0\PageListViewHoa.pdb
