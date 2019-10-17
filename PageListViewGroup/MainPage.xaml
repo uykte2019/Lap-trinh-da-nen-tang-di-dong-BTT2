@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="PageListViewGroup.MainPage">
+
+    <ContentPage.Content>
+        <ListView x:Name="lsthoa" HasUnevenRows="True"
+                  GroupDisplayBinding="{Binding TenLoai}"
+                  GroupShortNameBinding="{Binding TenLoai}"
+                  IsGroupingEnabled="True">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ImageCell ImageSource="{Binding Hinh}" Text="{Binding TenHoa}"  Detail="{Binding MoTa }"   />
+
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </ContentPage.Content>
+
+</ContentPage>

@@ -1,0 +1,13 @@
+C:\Users\levan\source\repos\PageListViewGroup\PageListViewGroup\PageListViewGroup\bin\Debug\netstandard2.0\PageListViewGroup.deps.json
+C:\Users\levan\source\repos\PageListViewGroup\PageListViewGroup\PageListViewGroup\bin\Debug\netstandard2.0\PageListViewGroup.dll
+C:\Users\levan\source\repos\PageListViewGroup\PageListViewGroup\PageListViewGroup\bin\Debug\netstandard2.0\ref\PageListViewGroup.dll
+C:\Users\levan\source\repos\PageListViewGroup\PageListViewGroup\PageListViewGroup\bin\Debug\netstandard2.0\PageListViewGroup.pdb
+C:\Users\levan\source\repos\PageListViewGroup\PageListViewGroup\PageListViewGroup\obj\Debug\netstandard2.0\PageListViewGroup.csprojAssemblyReference.cache
+C:\Users\levan\source\repos\PageListViewGroup\PageListViewGroup\PageListViewGroup\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\levan\source\repos\PageListViewGroup\PageListViewGroup\PageListViewGroup\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\levan\source\repos\PageListViewGroup\PageListViewGroup\PageListViewGroup\obj\Debug\netstandard2.0\PageListViewGroup.AssemblyInfoInputs.cache
+C:\Users\levan\source\repos\PageListViewGroup\PageListViewGroup\PageListViewGroup\obj\Debug\netstandard2.0\PageListViewGroup.AssemblyInfo.cs
+C:\Users\levan\source\repos\PageListViewGroup\PageListViewGroup\PageListViewGroup\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\levan\source\repos\PageListViewGroup\PageListViewGroup\PageListViewGroup\obj\Debug\netstandard2.0\PageListViewGroup.dll
+C:\Users\levan\source\repos\PageListViewGroup\PageListViewGroup\PageListViewGroup\obj\Debug\netstandard2.0\ref\PageListViewGroup.dll
+C:\Users\levan\source\repos\PageListViewGroup\PageListViewGroup\PageListViewGroup\obj\Debug\netstandard2.0\PageListViewGroup.pdb
